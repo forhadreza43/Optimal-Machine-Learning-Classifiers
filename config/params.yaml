@@ -1,0 +1,14 @@
+data:
+  input_path: "../data/raw/sample_dataset.csv"
+  output_path: "../data/processed/processed_data.csv"
+  test_size: 0.2
+  random_state: 42
+
+models:
+  random_state: 42
+  cv_folds: 5
+
+results:
+  metrics_path: "../results/metrics/metrics.csv"
+  plots_dir: "../results/plots/"
+  models_dir: "../results/models/"
