@@ -3,7 +3,9 @@
 This project compares the performance of various machine learning classifiers on a given dataset.
 
 ## Project Structure
+
 classifier_comparison_project/
+
 │
 ├── data/
 │   ├── raw/
