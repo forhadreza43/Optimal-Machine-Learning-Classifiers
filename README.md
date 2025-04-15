@@ -57,21 +57,21 @@ This project compares the performance of various machine learning classifiers on
    ```bash
    python src/main.py
    
-4. Results
-The pipeline will generate:
+## Results
+   The pipeline will generate:
+   
+   Processed data in data/processed/
+   
+   Evaluation metrics in results/metrics/
+   
+   Visualizations in results/plots/
+   
+   Trained models in results/models/
 
-Processed data in data/processed/
+## Contributing
+   Fork the project
 
-Evaluation metrics in results/metrics/
-
-Visualizations in results/plots/
-
-Trained models in results/models/
-
-Contributing
-Fork the project
-
-Contact
-FORHAD REZA - forhad.bimt@gmail.com
+##Contact
+   FORHAD REZA - forhad.bimt@gmail.com
 
 
