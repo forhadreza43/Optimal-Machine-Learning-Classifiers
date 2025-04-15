@@ -34,3 +34,19 @@ classifier_comparison_project/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7+
+- pip
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/classifier_comparison_project.git
+   cd classifier_comparison_project
