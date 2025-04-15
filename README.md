@@ -35,8 +35,7 @@ classifier_comparison_project/
 ├── .gitignore
 └── README.md
 
-
-
+```
 ## Getting Started
 
 ### Prerequisites
