@@ -1,0 +1,1001 @@
+age,income,education_level,usage_frequency,support_calls,churn
+45,67462,Master,94,4,Yes
+49,17965,Master,55,3,Yes
+21,46866,High School,56,4,Yes
+34,89513,Bachelor,32,3,No
+28,66686,High School,73,4,No
+49,79949,Master,51,5,Yes
+30,36580,Bachelor,71,7,Yes
+30,0,Master,46,4,Yes
+46,57809,PhD,52,3,Yes
+32,85684,High School,51,8,Yes
+35,54403,Bachelor,40,3,No
+40,3302,High School,59,6,No
+48,21346,Bachelor,52,6,Yes
+33,55842,Master,79,3,No
+42,82573,PhD,25,5,No
+31,41135,Master,54,8,Yes
+41,54006,High School,24,7,Yes
+50,32226,Master,56,3,No
+41,72263,Master,37,7,Yes
+38,44390,Master,33,4,No
+33,86807,Master,81,6,No
+42,27381,PhD,37,5,Yes
+44,101351,Master,41,6,Yes
+40,96297,PhD,59,5,No
+45,12684,PhD,31,6,Yes
+46,99173,Bachelor,60,4,No
+35,0,Bachelor,36,6,Yes
+55,71752,High School,48,6,Yes
+40,85193,Bachelor,41,4,No
+33,49122,Master,5,9,No
+25,0,PhD,42,8,No
+27,71035,PhD,27,9,Yes
+44,6851,Master,61,4,No
+26,67775,Master,55,9,No
+40,44811,PhD,47,5,No
+40,56717,Master,40,3,Yes
+36,56034,Master,26,4,Yes
+41,62864,Bachelor,66,7,Yes
+36,39985,Master,43,7,No
+49,38881,Bachelor,52,3,No
+46,13709,Master,60,1,No
+42,52359,Master,60,2,No
+48,91706,Bachelor,53,5,No
+35,49438,PhD,63,3,Yes
+46,59650,PhD,27,6,Yes
+33,61799,Bachelor,32,3,No
+51,112222,PhD,51,2,Yes
+30,91246,PhD,59,6,No
+39,72046,PhD,25,2,No
+30,53256,High School,74,5,Yes
+40,73827,Master,50,5,No
+51,25823,PhD,47,8,No
+39,52280,High School,56,7,Yes
+25,27962,Master,54,1,No
+25,114268,Master,30,2,Yes
+33,42278,PhD,62,5,Yes
+47,27446,PhD,51,5,No
+35,89521,PhD,25,5,No
+21,59294,High School,40,2,Yes
+34,46062,PhD,45,5,No
+48,77572,PhD,56,5,Yes
+50,33490,Master,29,10,Yes
+45,99837,PhD,46,5,No
+78,102487,Bachelor,49,3,Yes
+44,35517,Master,40,5,Yes
+29,76138,High School,49,1,No
+39,0,High School,58,4,Yes
+42,80976,High School,37,4,Yes
+43,48592,High School,64,8,Yes
+54,36287,High School,45,8,Yes
+41,18397,PhD,59,7,Yes
+31,55536,Master,71,3,No
+40,17835,Bachelor,68,5,No
+27,44935,Master,56,5,Yes
+34,49817,Bachelor,51,5,No
+33,0,Master,71,1,No
+37,55831,PhD,57,8,No
+41,81412,Master,23,4,No
+31,52584,Bachelor,49,4,No
+34,49726,PhD,47,7,No
+52,37051,High School,46,4,No
+39,11159,PhD,13,5,Yes
+44,54251,Bachelor,33,6,Yes
+50,84824,High School,47,5,No
+43,31714,PhD,41,2,No
+43,72982,PhD,65,4,No
+34,45107,Bachelor,55,4,No
+39,33940,Master,55,2,Yes
+50,0,PhD,47,4,Yes
+47,45677,PhD,44,5,No
+18,114719,Bachelor,55,3,Yes
+49,101066,Bachelor,37,1,Yes
+33,43205,PhD,55,4,No
+35,24939,High School,81,8,Yes
+44,27435,High School,30,3,No
+56,42539,PhD,48,2,No
+51,42618,High School,53,8,No
+34,42228,Master,43,3,Yes
+28,0,Bachelor,48,9,Yes
+55,17288,PhD,68,1,No
+41,59959,Master,59,7,Yes
+54,0,High School,59,7,No
+29,57612,PhD,40,7,Yes
+52,100177,Master,63,5,Yes
+23,37890,Bachelor,66,6,No
+37,18128,Master,33,4,Yes
+43,43205,High School,36,4,Yes
+44,56697,PhD,33,7,No
+37,67842,Master,46,5,No
+41,31374,Bachelor,60,5,Yes
+42,35334,Bachelor,80,5,Yes
+36,30499,PhD,28,2,Yes
+28,65392,PhD,35,4,Yes
+42,0,PhD,57,5,No
+49,80908,PhD,42,8,No
+37,75814,High School,49,7,Yes
+37,20311,Master,16,3,Yes
+24,26813,High School,58,2,No
+33,36018,Bachelor,43,7,No
+43,52454,Master,37,5,No
+50,36908,Master,61,6,Yes
+53,0,PhD,57,5,No
+43,75422,PhD,29,5,Yes
+30,66749,Bachelor,56,4,Yes
+41,33392,Master,35,6,No
+35,41866,Master,63,5,Yes
+62,51850,PhD,68,2,Yes
+46,30459,Bachelor,53,4,No
+43,83801,High School,36,5,Yes
+49,107035,High School,52,9,No
+43,28159,Master,42,2,No
+34,62815,High School,41,4,Yes
+27,7588,Master,67,6,Yes
+37,82104,High School,51,8,No
+30,16411,Master,33,3,Yes
+49,29851,Bachelor,37,5,Yes
+47,83165,PhD,86,6,No
+47,87432,High School,53,2,Yes
+41,63089,High School,52,7,Yes
+39,52304,Master,51,2,No
+25,44821,Master,37,4,Yes
+33,26900,High School,30,2,No
+22,42213,Bachelor,42,7,Yes
+46,45425,High School,39,3,Yes
+51,46711,High School,53,5,Yes
+39,0,PhD,60,4,No
+38,35508,Master,48,6,No
+27,30521,PhD,74,6,No
+62,43254,Bachelor,49,4,No
+45,65890,High School,61,6,Yes
+24,63571,High School,40,3,Yes
+28,79452,PhD,69,5,Yes
+15,78425,Bachelor,37,2,No
+22,41695,Bachelor,44,6,Yes
+48,38250,PhD,43,1,Yes
+33,43729,Bachelor,57,3,Yes
+37,64240,Bachelor,63,7,Yes
+27,29667,PhD,30,5,Yes
+35,73150,PhD,62,6,No
+46,49207,High School,8,6,No
+34,19708,PhD,16,6,Yes
+57,44723,Bachelor,56,3,Yes
+46,127686,High School,63,8,Yes
+58,67388,PhD,36,5,No
+36,125,Master,45,5,No
+13,75218,High School,58,3,No
+48,58021,Bachelor,59,3,No
+44,42232,Master,59,7,Yes
+53,50310,Master,59,7,No
+37,49249,High School,45,5,Yes
+55,67378,Master,29,2,Yes
+51,36876,PhD,60,8,No
+20,44279,High School,41,4,No
+40,62957,Master,86,3,Yes
+33,7449,High School,44,6,Yes
+44,20807,High School,66,2,Yes
+24,86830,High School,31,3,Yes
+47,48326,Master,52,9,Yes
+40,28747,PhD,55,4,Yes
+57,95639,Master,26,3,Yes
+55,96263,Bachelor,31,0,No
+52,42832,High School,39,5,Yes
+41,81197,Bachelor,30,2,No
+23,106537,PhD,56,5,Yes
+44,19169,PhD,33,4,Yes
+36,13171,High School,73,7,No
+29,0,PhD,53,1,Yes
+35,45244,PhD,73,4,Yes
+46,58073,High School,59,3,No
+25,80031,Bachelor,46,9,No
+39,83781,Master,47,4,Yes
+37,50565,Master,44,10,No
+40,55053,High School,33,7,Yes
+28,90924,High School,57,8,Yes
+46,76847,PhD,43,4,No
+41,40319,Master,62,3,No
+40,43596,Bachelor,27,7,No
+45,7921,PhD,45,7,Yes
+28,47664,Master,49,6,No
+40,95022,Bachelor,47,6,Yes
+37,19316,Master,42,7,No
+40,2158,Master,45,3,Yes
+36,108167,Bachelor,71,9,Yes
+35,25904,Master,50,7,No
+55,15688,PhD,78,3,No
+37,68574,PhD,40,6,Yes
+44,123192,High School,34,3,Yes
+35,44955,PhD,51,6,No
+45,110182,Master,62,6,Yes
+35,55059,PhD,49,4,Yes
+53,16409,High School,41,9,Yes
+53,91271,PhD,50,6,Yes
+24,22418,PhD,53,8,Yes
+34,92327,Master,49,8,Yes
+40,41137,Master,62,3,No
+31,86562,PhD,48,4,No
+32,88909,PhD,56,5,No
+44,3323,PhD,63,2,No
+47,16196,Bachelor,33,0,Yes
+19,46020,High School,44,4,No
+41,23045,Master,96,4,Yes
+50,73998,PhD,79,6,Yes
+21,38344,Master,51,7,Yes
+22,91402,PhD,52,3,Yes
+38,42236,Bachelor,18,5,Yes
+46,51788,PhD,38,7,No
+15,31933,Bachelor,86,5,Yes
+43,14896,PhD,65,6,No
+41,46780,Bachelor,27,6,No
+31,65408,High School,64,6,No
+35,78486,High School,17,7,No
+29,60543,PhD,35,7,Yes
+30,38815,High School,75,5,Yes
+17,48930,Bachelor,33,7,Yes
+29,69415,PhD,57,5,Yes
+58,0,Bachelor,35,5,Yes
+42,8905,Master,61,7,Yes
+47,69356,PhD,34,5,Yes
+42,31958,Bachelor,80,6,No
+33,94721,PhD,44,1,No
+55,30591,PhD,45,4,Yes
+26,51465,PhD,35,5,No
+34,47519,PhD,48,4,Yes
+40,50639,Master,54,6,Yes
+52,50845,High School,59,2,Yes
+39,107420,PhD,59,6,No
+28,59222,High School,58,6,No
+37,37156,Master,68,5,No
+31,61458,Bachelor,41,6,Yes
+38,0,High School,61,4,Yes
+54,40350,Master,28,5,Yes
+19,72628,Bachelor,59,4,No
+23,90213,PhD,52,6,Yes
+53,47349,High School,57,4,No
+38,86012,Bachelor,53,4,Yes
+60,64595,Master,75,6,No
+47,105622,Bachelor,37,3,No
+46,26366,Master,47,5,No
+41,17817,Master,47,3,Yes
+37,61804,Bachelor,53,6,Yes
+30,39520,Master,75,6,No
+37,67657,Master,63,8,Yes
+42,0,PhD,33,6,No
+56,46663,High School,23,8,Yes
+37,61754,Bachelor,52,3,No
+46,17271,High School,58,5,Yes
+40,82280,Master,44,5,No
+31,70337,Bachelor,35,6,Yes
+55,24609,High School,56,6,No
+34,35362,Bachelor,35,7,No
+39,33444,Master,49,5,Yes
+51,56032,PhD,11,3,No
+43,70908,High School,49,7,Yes
+27,59926,Master,48,8,Yes
+45,21216,Master,45,6,Yes
+45,33942,PhD,64,7,Yes
+31,49410,PhD,56,3,Yes
+53,26024,High School,32,3,No
+43,39522,PhD,59,7,No
+46,72801,PhD,34,5,No
+31,38989,Bachelor,46,5,Yes
+46,26119,Master,23,2,No
+48,98851,PhD,60,10,No
+37,61657,PhD,76,3,No
+51,29212,Master,59,3,No
+41,55714,Master,63,5,No
+31,55500,PhD,56,8,No
+29,50638,High School,39,2,Yes
+29,45589,PhD,40,4,No
+37,0,Master,68,4,No
+24,61313,Master,51,7,No
+39,40428,PhD,58,7,Yes
+59,33464,Bachelor,64,4,No
+38,32584,High School,63,2,No
+38,53587,Bachelor,27,3,No
+34,14123,PhD,60,4,Yes
+34,4910,Bachelor,72,8,Yes
+50,43362,High School,66,6,Yes
+47,69055,PhD,37,5,No
+32,80294,Bachelor,40,4,No
+28,103167,Bachelor,31,8,No
+43,69886,Master,76,5,No
+23,101808,High School,79,5,No
+37,39051,Bachelor,46,3,No
+39,37120,Bachelor,49,6,Yes
+42,48458,Bachelor,25,3,No
+49,54460,Bachelor,63,7,Yes
+42,1546,Master,71,3,No
+44,129330,PhD,63,3,Yes
+29,65478,PhD,59,8,Yes
+50,0,PhD,62,7,Yes
+46,54226,High School,57,10,Yes
+35,84459,PhD,55,5,No
+57,106996,Master,50,7,No
+34,87148,Bachelor,38,4,Yes
+45,128050,Master,39,5,No
+32,78916,PhD,22,1,No
+48,66243,Master,60,6,Yes
+34,61018,High School,38,7,Yes
+49,28447,Master,63,3,No
+20,75506,Master,43,5,Yes
+45,97835,PhD,48,4,No
+47,44751,High School,44,4,Yes
+40,52035,PhD,43,4,No
+37,48888,High School,46,1,No
+34,70891,Master,94,6,Yes
+42,63108,Bachelor,57,1,No
+25,77977,Bachelor,62,8,Yes
+39,46388,PhD,72,5,Yes
+44,63606,PhD,58,3,No
+25,83290,Bachelor,65,7,Yes
+50,74532,PhD,76,4,No
+26,72164,Bachelor,34,5,No
+50,75583,Bachelor,42,3,No
+44,91980,Bachelor,39,6,Yes
+46,18046,High School,62,6,No
+27,70177,Master,52,4,Yes
+37,59053,High School,41,3,Yes
+26,40758,Master,18,2,No
+39,59695,Bachelor,58,4,Yes
+43,62585,PhD,71,4,No
+35,79881,Master,75,4,No
+39,53126,Bachelor,45,3,No
+61,15609,PhD,58,2,Yes
+51,39040,PhD,48,3,Yes
+60,66148,Master,65,4,No
+51,23660,PhD,78,6,Yes
+52,61089,Master,54,8,No
+40,47851,Bachelor,54,10,No
+34,52939,High School,44,7,Yes
+31,91760,Master,44,2,No
+30,86392,High School,33,4,Yes
+46,38899,High School,100,5,Yes
+33,60395,High School,63,5,No
+35,124789,Bachelor,64,7,No
+40,62657,PhD,50,8,No
+31,29957,High School,65,7,No
+46,18655,High School,27,3,No
+51,21819,Master,33,3,Yes
+42,44807,High School,46,5,No
+49,24823,High School,49,5,No
+43,56017,Master,55,3,No
+55,78922,PhD,41,2,Yes
+39,59264,Master,36,3,No
+49,80677,Bachelor,73,6,Yes
+33,68405,Bachelor,53,3,No
+49,55838,Bachelor,26,3,Yes
+27,59593,High School,29,6,Yes
+49,50960,Bachelor,63,6,No
+33,14190,Master,33,4,Yes
+32,75602,High School,56,8,No
+46,42762,Master,65,6,Yes
+42,41073,Bachelor,52,3,Yes
+43,48122,Bachelor,52,4,No
+55,76855,Bachelor,50,2,No
+32,57151,High School,45,5,Yes
+70,23375,Bachelor,29,3,No
+55,11510,High School,52,5,Yes
+36,101975,Master,41,7,No
+41,76905,PhD,45,6,Yes
+33,67069,PhD,43,3,No
+47,50467,High School,72,5,No
+42,45196,High School,43,7,No
+61,25889,PhD,31,6,Yes
+63,14372,Bachelor,44,7,No
+32,57177,Master,49,6,No
+49,73350,PhD,58,5,No
+29,98411,High School,60,5,No
+42,74012,Master,72,6,No
+46,27725,Master,42,12,Yes
+47,78223,Bachelor,73,4,Yes
+41,36233,PhD,43,6,Yes
+43,19990,Bachelor,66,4,No
+42,31286,Master,45,6,No
+48,25172,Bachelor,37,4,No
+31,49233,PhD,42,5,Yes
+46,27296,High School,70,7,Yes
+19,55430,High School,30,4,Yes
+41,78586,Bachelor,38,5,No
+46,23543,PhD,31,5,No
+34,101826,High School,4,2,Yes
+47,61840,High School,50,6,Yes
+34,0,High School,50,4,No
+23,0,Master,36,5,Yes
+44,37209,High School,56,5,Yes
+45,53791,Bachelor,55,4,No
+34,0,Master,48,10,Yes
+44,38354,PhD,50,2,Yes
+36,61874,Bachelor,36,5,No
+31,78659,Master,68,6,Yes
+45,95403,Master,51,5,Yes
+50,0,PhD,39,4,No
+26,47506,High School,40,3,No
+37,55080,PhD,60,5,No
+48,28425,High School,55,4,No
+42,83212,Bachelor,37,5,Yes
+34,22888,Bachelor,45,2,Yes
+29,78594,Bachelor,73,6,Yes
+40,19274,Master,46,7,Yes
+30,67590,Bachelor,46,6,Yes
+30,40389,Bachelor,59,10,Yes
+51,47284,PhD,18,3,No
+42,38010,Bachelor,38,3,No
+21,3123,PhD,62,7,Yes
+47,32507,PhD,47,3,Yes
+40,22001,Bachelor,24,8,Yes
+34,112302,PhD,15,7,No
+38,0,Master,47,4,Yes
+27,111875,PhD,34,6,No
+51,17230,High School,39,3,No
+20,10063,Master,56,3,Yes
+45,49540,Bachelor,34,4,Yes
+39,32704,Master,68,3,Yes
+38,72600,PhD,41,3,No
+40,55761,Bachelor,59,6,No
+42,112257,Master,38,5,No
+29,77549,PhD,47,4,No
+40,36701,PhD,33,6,Yes
+34,98467,High School,18,1,No
+41,145793,Bachelor,60,5,Yes
+23,62413,PhD,47,8,Yes
+43,58806,PhD,45,5,Yes
+41,67806,Master,21,5,Yes
+28,39405,Master,65,5,Yes
+32,64063,High School,56,7,No
+46,19525,Bachelor,49,5,Yes
+35,80898,High School,54,4,Yes
+40,0,Master,25,7,Yes
+41,49313,Bachelor,29,5,No
+36,22327,Master,41,4,Yes
+42,70793,High School,40,2,Yes
+32,73389,Bachelor,41,5,No
+58,54096,High School,40,4,No
+31,638,Master,67,4,No
+57,57013,Bachelor,47,3,No
+29,39956,Master,75,7,Yes
+58,58404,Bachelor,42,8,No
+50,66402,High School,59,3,Yes
+32,43720,PhD,71,5,No
+24,63676,High School,33,6,No
+13,79888,PhD,40,5,No
+64,64870,High School,34,5,No
+35,50623,Bachelor,68,5,No
+53,58566,PhD,40,4,Yes
+31,63799,PhD,22,5,Yes
+38,83245,Master,32,2,No
+38,54512,Bachelor,61,5,Yes
+41,58057,PhD,55,7,No
+21,82662,Master,57,5,No
+29,61434,Bachelor,53,4,Yes
+45,42475,PhD,32,6,Yes
+32,71828,Master,59,4,No
+34,13113,Bachelor,63,8,Yes
+45,44109,PhD,71,5,Yes
+31,31597,PhD,57,9,No
+37,30755,Bachelor,33,5,Yes
+29,72437,Master,61,7,No
+18,46821,High School,64,7,No
+58,21400,PhD,47,5,Yes
+43,77118,Master,50,5,No
+39,3104,High School,32,4,Yes
+36,71979,High School,65,3,No
+35,55927,Master,38,4,No
+22,9586,High School,36,3,Yes
+27,45571,High School,36,4,Yes
+36,48844,Bachelor,52,5,Yes
+38,82360,Bachelor,42,5,No
+46,67997,PhD,62,8,Yes
+58,66917,Bachelor,31,4,No
+38,86250,High School,45,4,No
+34,33134,PhD,35,2,No
+30,111724,Master,53,8,Yes
+44,45876,High School,52,4,No
+25,79940,Master,55,2,No
+30,111686,Master,58,5,Yes
+37,20342,Bachelor,80,2,No
+26,61990,Bachelor,42,8,Yes
+55,51710,Master,58,6,Yes
+38,16828,PhD,40,7,Yes
+35,12969,PhD,40,2,Yes
+47,62111,High School,60,6,No
+54,47049,PhD,52,5,No
+35,55540,High School,28,5,Yes
+42,116939,PhD,55,9,No
+27,70140,PhD,36,4,Yes
+46,48353,High School,37,5,No
+27,14628,High School,55,5,Yes
+34,31828,PhD,49,9,No
+43,0,Bachelor,63,5,No
+26,70336,Master,73,2,Yes
+32,62570,Bachelor,43,1,No
+50,14902,PhD,31,4,Yes
+38,39887,Master,58,3,Yes
+34,55937,PhD,47,6,No
+29,51934,PhD,49,8,Yes
+31,98368,Bachelor,33,5,Yes
+46,69013,High School,61,6,Yes
+67,16892,High School,50,6,No
+39,75871,High School,54,4,No
+40,49269,Master,70,4,Yes
+39,33612,High School,44,5,No
+37,20020,Bachelor,62,2,Yes
+24,74324,PhD,57,6,Yes
+31,54817,PhD,60,6,Yes
+19,74472,PhD,34,5,Yes
+38,43889,PhD,21,4,Yes
+32,58613,PhD,45,4,Yes
+50,66298,Bachelor,30,2,Yes
+23,64541,High School,54,9,No
+36,51558,Bachelor,32,3,No
+43,94780,Master,54,2,Yes
+43,35968,High School,71,1,Yes
+58,77576,Master,51,5,Yes
+61,26420,PhD,43,8,Yes
+41,54795,Master,53,4,Yes
+55,44986,PhD,53,5,Yes
+42,10307,PhD,53,5,No
+48,35187,Master,45,4,No
+41,43296,PhD,68,5,Yes
+43,34141,PhD,54,3,Yes
+31,66501,PhD,43,5,Yes
+25,68274,High School,42,4,Yes
+19,100331,High School,50,3,No
+29,0,Bachelor,49,3,No
+28,48271,High School,35,2,Yes
+39,39704,High School,47,4,Yes
+37,28495,PhD,58,5,Yes
+54,63258,Bachelor,75,4,No
+35,0,Master,43,4,No
+30,59079,PhD,32,4,No
+39,122102,High School,46,4,No
+53,50440,Master,29,7,No
+46,9620,Bachelor,47,3,No
+36,85181,Master,63,4,Yes
+57,0,Bachelor,60,3,Yes
+42,69141,Master,39,7,No
+32,23455,PhD,68,3,No
+35,27934,Bachelor,42,4,Yes
+35,69569,High School,50,6,No
+37,43257,High School,44,6,No
+43,63214,Bachelor,40,2,Yes
+45,27652,High School,47,6,Yes
+39,31626,Master,46,3,No
+42,18389,High School,44,1,Yes
+29,22379,Bachelor,33,7,Yes
+39,11095,PhD,60,6,No
+32,40330,Bachelor,20,6,Yes
+39,66095,Bachelor,79,3,No
+42,50091,High School,56,2,Yes
+33,44079,PhD,55,4,Yes
+42,24591,High School,25,7,No
+45,99002,Master,50,3,No
+48,40723,PhD,38,9,No
+43,31233,High School,62,2,No
+38,72774,Bachelor,29,3,Yes
+43,41419,High School,53,5,Yes
+23,45498,High School,52,7,Yes
+37,85898,High School,66,6,Yes
+52,30293,Master,51,8,No
+34,82401,PhD,37,4,Yes
+40,51699,PhD,56,4,No
+25,62724,Master,31,5,Yes
+31,76851,PhD,41,6,No
+44,0,Master,58,6,No
+52,2564,PhD,63,8,No
+38,95040,PhD,62,7,No
+36,34018,Bachelor,63,2,Yes
+32,53398,PhD,60,4,Yes
+26,56733,PhD,49,6,No
+48,41579,PhD,81,6,No
+36,13281,Master,51,5,Yes
+35,47042,PhD,64,4,Yes
+55,34856,Master,31,5,No
+30,65336,High School,48,6,No
+34,58660,PhD,67,1,Yes
+42,99260,PhD,31,5,Yes
+45,65239,High School,46,3,No
+48,30621,High School,40,3,No
+36,34128,High School,46,4,Yes
+40,84856,Master,58,2,Yes
+43,35483,High School,19,0,Yes
+34,27371,High School,66,9,Yes
+31,47885,Bachelor,56,11,No
+35,13710,PhD,55,6,Yes
+39,89527,PhD,63,4,No
+39,66668,Master,68,4,Yes
+35,53161,PhD,26,9,No
+43,60948,PhD,42,8,Yes
+41,58962,High School,38,6,Yes
+32,53680,Master,40,6,Yes
+46,55396,Master,47,4,No
+34,79761,Master,35,4,No
+47,89447,PhD,59,3,No
+34,0,High School,57,4,Yes
+47,68461,High School,72,5,No
+47,85630,PhD,54,2,No
+47,62211,Bachelor,52,7,Yes
+30,68924,High School,16,5,Yes
+39,78593,High School,25,3,Yes
+32,76509,Master,66,10,No
+61,54288,Bachelor,68,0,No
+44,117573,High School,45,3,No
+34,103259,Master,62,5,No
+31,58435,PhD,48,6,Yes
+29,30457,Bachelor,46,3,Yes
+39,44190,PhD,58,4,Yes
+43,94296,Master,45,4,No
+33,0,High School,48,6,No
+27,59241,Master,64,6,Yes
+47,46347,Bachelor,54,5,No
+27,22828,Master,57,6,No
+38,71671,PhD,40,4,No
+27,78701,High School,35,6,No
+36,71283,Bachelor,41,6,Yes
+42,43723,Bachelor,39,6,No
+50,46105,High School,69,4,Yes
+28,51140,Master,77,3,No
+39,32130,PhD,35,10,Yes
+26,98220,High School,62,8,Yes
+43,87857,Master,61,4,Yes
+46,85897,Bachelor,40,4,No
+46,116315,PhD,65,6,Yes
+20,6068,High School,42,6,No
+54,52687,Master,46,7,No
+61,94135,Bachelor,66,8,No
+34,63338,Master,46,5,No
+58,45461,High School,41,2,Yes
+33,30613,Bachelor,41,5,Yes
+24,62294,Master,53,6,No
+46,0,PhD,27,6,Yes
+41,2210,Bachelor,52,9,Yes
+54,80017,Bachelor,68,3,Yes
+33,89130,PhD,56,14,Yes
+45,49898,Bachelor,40,6,Yes
+25,84013,PhD,54,8,No
+26,71246,Bachelor,24,6,Yes
+51,25692,Master,76,5,Yes
+39,44152,High School,22,3,No
+51,8312,Master,57,3,No
+46,14182,PhD,43,6,No
+33,30831,Bachelor,50,3,Yes
+34,48180,Bachelor,90,3,No
+33,71249,High School,46,5,Yes
+66,91209,Master,43,7,Yes
+39,56522,High School,47,4,Yes
+40,51314,Bachelor,71,4,Yes
+47,58498,Master,61,5,Yes
+31,45812,Bachelor,66,5,No
+57,82175,Bachelor,67,5,Yes
+40,65235,Master,30,3,Yes
+30,0,PhD,76,7,Yes
+35,55293,High School,30,4,No
+41,7810,Master,63,4,No
+36,38247,PhD,53,3,Yes
+47,81519,Bachelor,47,4,Yes
+46,57820,Bachelor,45,5,Yes
+43,0,High School,74,5,Yes
+40,71568,Bachelor,45,4,No
+29,38911,Master,32,3,No
+45,30112,High School,55,4,No
+41,19803,PhD,52,4,No
+43,52785,Bachelor,32,5,Yes
+65,52263,PhD,63,3,No
+35,81486,PhD,59,5,No
+35,65261,High School,37,7,Yes
+42,13227,High School,55,3,No
+30,57222,Bachelor,48,9,No
+51,59773,High School,72,5,No
+50,61221,Bachelor,49,3,No
+46,27327,PhD,53,4,No
+41,79255,High School,53,5,Yes
+56,12371,Bachelor,28,8,Yes
+53,29955,High School,71,5,Yes
+44,49417,PhD,58,8,Yes
+45,50192,PhD,18,6,No
+7,66162,Bachelor,68,3,Yes
+46,41245,High School,59,3,Yes
+43,41291,Bachelor,71,7,Yes
+43,30694,PhD,65,6,No
+42,20258,Bachelor,47,5,Yes
+39,59575,PhD,43,3,Yes
+36,50726,Master,77,7,Yes
+51,49566,High School,55,6,Yes
+40,46995,Master,26,4,Yes
+45,25711,PhD,42,4,Yes
+56,4230,High School,50,5,No
+26,6798,Master,37,7,Yes
+27,17111,Master,25,1,No
+43,65393,Bachelor,79,2,Yes
+58,64900,High School,43,9,Yes
+50,101318,PhD,62,5,Yes
+38,84196,PhD,58,5,No
+32,8993,High School,60,5,Yes
+42,24484,Bachelor,31,6,No
+27,0,Master,60,5,Yes
+44,20525,PhD,28,7,No
+25,15709,High School,46,5,Yes
+51,77574,High School,53,5,No
+22,59692,Bachelor,63,6,Yes
+41,53767,PhD,53,7,No
+45,81681,High School,67,2,No
+41,66574,Master,50,9,No
+54,42429,PhD,69,4,No
+36,40726,Master,56,8,No
+48,75154,High School,37,9,No
+24,18592,Master,39,5,No
+54,69161,PhD,49,3,Yes
+44,2884,High School,70,2,No
+50,53668,Bachelor,60,9,Yes
+22,64729,PhD,43,4,Yes
+35,51022,Master,36,3,No
+32,77835,Bachelor,54,4,Yes
+25,36040,PhD,36,7,Yes
+32,24702,Master,62,5,No
+26,2873,PhD,43,4,Yes
+42,60845,High School,45,2,Yes
+36,62721,PhD,70,3,No
+34,59862,High School,60,5,No
+40,62707,Master,64,2,No
+40,85571,PhD,41,4,Yes
+45,52473,Bachelor,42,5,Yes
+47,51308,High School,46,5,Yes
+44,1510,PhD,42,4,Yes
+55,65025,Bachelor,61,2,Yes
+40,114354,PhD,46,7,No
+56,92366,Bachelor,46,8,No
+42,33719,High School,77,8,Yes
+30,30377,Bachelor,43,3,No
+42,58013,Bachelor,48,4,Yes
+41,35837,Master,69,2,No
+55,106198,High School,56,4,No
+39,89309,PhD,49,3,Yes
+34,99198,Bachelor,59,3,No
+43,89052,Master,46,6,Yes
+48,69677,Bachelor,29,2,Yes
+31,94325,Master,30,3,Yes
+25,22882,Master,54,2,Yes
+50,20384,PhD,21,2,Yes
+39,85204,PhD,70,5,No
+29,111845,Master,45,6,No
+40,76102,PhD,50,7,No
+51,35752,High School,46,7,Yes
+40,47351,Bachelor,20,7,Yes
+60,37675,Master,68,7,No
+27,98740,Master,16,2,Yes
+19,38995,Bachelor,58,4,Yes
+49,1593,PhD,57,8,Yes
+44,8611,High School,69,4,No
+28,33538,PhD,72,5,No
+33,127391,Bachelor,63,6,No
+50,6273,Master,44,5,Yes
+28,86514,PhD,55,7,Yes
+36,40843,PhD,40,5,No
+37,85621,PhD,50,8,No
+47,89845,PhD,62,6,Yes
+52,66827,Master,45,11,No
+56,20764,Bachelor,73,8,No
+43,5632,High School,23,9,Yes
+44,28849,Master,10,8,Yes
+45,22179,High School,12,5,Yes
+38,88430,High School,60,5,Yes
+38,30693,PhD,52,6,Yes
+55,71243,Bachelor,67,4,No
+48,29927,Master,44,4,Yes
+32,72262,High School,50,2,Yes
+35,44441,Master,40,6,No
+54,30387,PhD,72,3,Yes
+50,41944,High School,77,2,Yes
+24,45979,High School,38,5,Yes
+25,78029,High School,37,7,Yes
+35,36403,Bachelor,37,6,Yes
+27,17974,Master,55,4,Yes
+48,65485,High School,51,5,Yes
+55,83028,High School,73,4,No
+40,63431,Master,61,2,Yes
+42,84453,Bachelor,71,6,No
+34,29881,PhD,42,4,No
+35,4588,Bachelor,34,10,No
+37,62849,Master,38,5,Yes
+42,87971,High School,41,6,Yes
+35,77407,Bachelor,10,8,Yes
+44,144132,PhD,46,3,Yes
+47,84942,Bachelor,64,8,No
+50,27440,Bachelor,37,7,No
+34,62901,High School,31,4,No
+45,32549,High School,79,6,No
+49,65417,Bachelor,59,6,No
+46,40255,High School,58,10,No
+32,38833,Bachelor,63,3,Yes
+27,97219,Master,91,3,Yes
+48,49174,High School,39,4,No
+31,72767,PhD,64,5,Yes
+65,60154,High School,40,4,Yes
+48,66388,Bachelor,52,8,Yes
+44,42498,PhD,46,6,Yes
+64,24014,PhD,37,4,Yes
+58,68647,High School,54,4,No
+22,40904,PhD,36,4,Yes
+25,47578,High School,48,5,Yes
+36,76521,Bachelor,53,7,Yes
+32,38626,High School,51,5,Yes
+33,52101,Bachelor,50,2,No
+48,63992,PhD,89,3,No
+36,67600,Master,34,5,Yes
+59,45846,PhD,51,2,No
+42,25193,Bachelor,55,2,No
+45,35784,Bachelor,44,6,Yes
+45,28940,PhD,72,5,No
+26,110401,High School,27,5,No
+29,56395,Master,49,1,No
+53,20851,High School,34,3,No
+39,115128,Master,49,5,Yes
+33,79083,PhD,40,6,Yes
+37,58369,Bachelor,49,5,No
+37,70946,High School,21,7,Yes
+33,53696,High School,42,3,Yes
+37,47610,PhD,37,6,No
+39,108750,High School,64,4,Yes
+42,76493,High School,46,2,Yes
+56,78509,Bachelor,73,4,No
+45,20048,High School,29,8,No
+38,82579,PhD,50,6,No
+44,59730,PhD,60,2,Yes
+40,77489,Master,26,2,Yes
+35,0,Bachelor,48,4,Yes
+43,74241,Bachelor,70,0,No
+37,9302,High School,49,2,No
+29,7345,High School,30,8,No
+26,25454,Master,45,3,Yes
+50,2708,High School,49,2,No
+39,61976,PhD,57,4,No
+46,29227,Bachelor,57,1,No
+37,43756,PhD,47,4,Yes
+43,53756,PhD,77,5,Yes
+30,42675,Bachelor,44,9,No
+43,53600,Master,68,1,No
+65,78945,Master,16,5,Yes
+32,33275,Master,39,8,Yes
+48,87877,Bachelor,21,5,No
+46,31320,Master,47,6,No
+61,31831,High School,43,6,No
+42,16899,PhD,41,8,Yes
+51,95854,Master,55,4,Yes
+25,98461,High School,34,2,Yes
+44,29668,High School,36,2,No
+44,63096,PhD,49,4,Yes
+31,80721,High School,61,5,Yes
+48,67922,Bachelor,31,6,No
+28,84462,Bachelor,55,2,No
+16,31706,Bachelor,85,1,Yes
+39,79571,Master,28,5,No
+40,48075,High School,60,4,Yes
+35,83723,Bachelor,68,5,No
+23,86631,PhD,52,2,Yes
+49,49003,High School,83,3,Yes
+41,65633,Master,42,6,No
+48,39126,High School,53,5,Yes
+54,98366,PhD,76,5,No
+22,102078,PhD,62,7,No
+58,29355,Bachelor,44,3,No
+47,100517,Bachelor,39,9,No
+40,33072,Master,42,7,Yes
+31,104780,Bachelor,53,5,No
+39,43261,Bachelor,46,5,Yes
+39,1941,Master,40,8,No
+32,29795,Bachelor,43,4,No
+42,53450,Bachelor,41,3,No
+33,64820,PhD,40,6,No
+39,0,Master,54,4,Yes
+36,40925,Bachelor,50,4,Yes
+33,55687,High School,55,4,No
+39,36935,Bachelor,51,7,Yes
+41,21936,Bachelor,79,7,Yes
+33,47033,Bachelor,57,4,No
+50,64675,Master,66,3,Yes
+49,75005,High School,72,7,No
+40,33921,Master,65,5,Yes
+40,13271,Master,61,6,Yes
+32,0,Bachelor,72,4,Yes
+57,49204,High School,53,0,No
+25,23264,Master,62,8,No
+55,73804,PhD,33,4,Yes
+41,87082,High School,48,9,Yes
+45,37117,Master,47,4,Yes
+47,118728,Master,53,5,No
+35,61020,PhD,58,2,Yes
+32,105145,PhD,42,5,Yes
+34,66099,PhD,52,4,Yes
+32,69041,PhD,80,5,No
+45,46371,Bachelor,46,7,Yes
+54,52305,High School,62,5,No
+34,100851,High School,38,4,Yes
+44,18802,PhD,74,6,Yes
+35,41560,Master,43,5,No
+34,27397,PhD,65,4,Yes
+38,77739,PhD,47,3,Yes
+47,64030,PhD,46,2,Yes
+30,31198,Bachelor,60,4,Yes
+60,27583,Bachelor,51,7,Yes
+37,39540,Master,50,4,No
+30,51217,High School,57,10,Yes
+48,35504,PhD,65,5,No
+24,10399,Master,45,1,Yes
+40,52652,Master,29,5,No
+46,16903,PhD,49,5,No
+34,66965,Master,60,3,No
+42,49180,PhD,41,5,No
+49,48883,High School,54,6,No
+34,55112,PhD,40,4,Yes
+41,97959,Bachelor,75,6,No
+52,72105,High School,36,6,Yes
+42,5453,Bachelor,66,6,No
+32,31646,Master,46,6,Yes
+38,43892,High School,58,6,Yes
+20,29324,Master,35,11,No
+40,10644,Bachelor,56,5,Yes
+47,44513,Master,21,4,Yes
+58,96845,Master,36,4,No
+40,40507,PhD,50,4,Yes
+48,91528,PhD,37,4,Yes
+39,46143,Bachelor,54,3,Yes
+37,85667,Master,51,2,Yes
+13,44385,PhD,44,3,No
+40,43666,PhD,55,4,No
+32,56740,Master,41,9,Yes
+47,20850,Master,53,8,No
+33,44894,High School,33,2,No
+30,56996,High School,36,3,No
+48,19557,High School,26,4,No
+19,52009,PhD,35,5,Yes
+57,91870,Master,36,7,No
+48,0,High School,36,7,Yes
+37,36061,Bachelor,57,7,No
+24,20949,Master,58,7,No
+43,4858,Bachelor,31,3,No
+38,55387,Master,69,6,Yes
+37,69448,Bachelor,60,6,No
+28,49274,PhD,45,6,Yes
+42,15749,PhD,57,4,Yes
+43,66308,PhD,53,4,Yes
+56,26453,Bachelor,54,6,Yes
+42,49358,Master,34,6,Yes
+31,91773,PhD,39,6,Yes
+32,65032,PhD,32,6,Yes
+61,0,Bachelor,28,4,Yes
+37,32788,PhD,54,3,Yes
+48,66734,Bachelor,57,4,Yes
+28,70195,PhD,57,4,No
+30,0,Bachelor,33,2,Yes
+41,119579,PhD,60,7,No
+51,91233,Master,76,5,Yes
+48,9979,High School,56,7,No
+41,58978,PhD,38,0,No
+36,2475,PhD,23,4,Yes
+52,114950,Master,36,9,Yes
+54,126745,Bachelor,39,3,No
+34,85719,High School,42,7,No
+58,66544,Bachelor,47,6,Yes
+45,82576,Bachelor,58,6,No
+34,46457,Bachelor,36,5,Yes
+24,59640,High School,56,8,Yes
+34,31765,Bachelor,35,6,No
+32,43552,High School,56,7,No
+37,60394,Master,62,5,No
+54,8842,High School,52,3,No
+43,57163,Master,47,4,No
+34,88692,PhD,57,6,Yes
+39,95922,High School,45,6,No
+36,41151,High School,42,1,Yes
+46,100097,High School,38,3,No
+30,85610,High School,61,9,No
+64,44585,PhD,58,8,No
+54,65685,Bachelor,50,5,Yes
+34,60518,Master,55,3,No
+55,64311,Master,68,6,Yes
+58,68383,High School,36,6,Yes
+54,82739,High School,55,4,No
+42,45970,High School,42,4,Yes
+40,58477,PhD,44,7,Yes
+36,112651,PhD,36,3,No
