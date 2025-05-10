@@ -7,7 +7,7 @@ from sklearn.metrics import confusion_matrix, roc_curve, auc
 
 
 def load_config():
-    with open("../config/params.yaml", "r") as f:
+    with open("D:\GUB\Semester-7\AI Lab\Project\Identify-Best-Classifier\config\params.yaml", "r") as f:
         config = yaml.safe_load(f)
     return config
 

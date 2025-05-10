@@ -1,5 +1,5 @@
 data:
-  input_path: "../data/raw/sample_dataset.csv"
+  input_path: "D:/GUB/Semester-7/AI Lab/Project/Identify-Best-Classifier/data/raw/sample_dataset.csv"
   output_path: "../data/processed/processed_data.csv"
   test_size: 0.2
   random_state: 42
@@ -11,4 +11,4 @@ models:
 results:
   metrics_path: "../results/metrics/metrics.csv"
   plots_dir: "../results/plots/"
-  models_dir: "../results/models/"
+  models_dir: "D:/GUB/Semester-7/AI Lab/Project/Identify-Best-Classifier/results/models/"
